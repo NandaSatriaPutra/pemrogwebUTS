@@ -1,0 +1,24 @@
+{
+  "name": "pemrogwebuts",
+  "version": "1.0.0",
+  "description": "UTS PEMROGWEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NandaSatriaPutra/pemrogwebUTS.git"
+  },
+  "keywords": [
+    "rest",
+    "API",
+    "node.js"
+  ],
+  "author": "Nanda Satria Putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NandaSatriaPutra/pemrogwebUTS/issues"
+  },
+  "homepage": "https://github.com/NandaSatriaPutra/pemrogwebUTS#readme"
+}
